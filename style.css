@@ -47,3 +47,8 @@ h1 {
     margin: 0 25%;
     padding-top: 30px;
 }
+
+#h1_color{
+    color: #AF7A6D;
+    font-family:verdana;
+}
