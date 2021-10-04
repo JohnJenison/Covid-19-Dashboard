@@ -1,7 +1,7 @@
 # Covid-19 Dashboard 💉
 > Hey viewers :smiley:
 
-This dashboard provides data for covid-19 cases for canada.
+This dashboard provides data for covid-19 cases for india.
 #### Languages and Tools used 🔧 :
 - HTML
 - CSS
